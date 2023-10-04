@@ -1,0 +1,18 @@
+M117 Warming up...
+M140 S60      ; Set Heat Bed 60F
+M150 B0 R255 U0                  ;Set LED to red
+
+M117 Homing axes
+G28                              ; Home all axes
+
+
+M117 Watiting for temps
+M190 S40      ; Wait for Heat Bed temperature
+M104 S160     ; Set Extruder to 160F
+M190 S60      ; Wait for Heat Bed temperature
+M104 S200    ; Set Extruder temperature
+
+G1 Z2.0 F3000                    ; Move Z Axis up little to prevent scratching of Heat Bed
+M109 S200        ; Wait for Extruder temperature
+
+M117 Warmed up & ready!

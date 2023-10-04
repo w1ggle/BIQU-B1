@@ -8,4 +8,4 @@ GD TFT35 B1 V3.0: V27.x
 
 
 
-Now includes Prusa Slicer config
+Now includes Prusa Slicer config and my starting and ending Gcode
