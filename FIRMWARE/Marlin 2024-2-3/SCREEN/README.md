@@ -9,5 +9,6 @@ In config.ini,
 - changed ack notifs from blocking popup to nonblocking toast
 - hid file extensions in file names
 - turned on filament runout sensor (off by default)
+- changed baudrate (115200 -> 250000)
 
 Otherwise, it is the stock config files from BIQU
