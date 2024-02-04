@@ -23,7 +23,7 @@
 
 #define CONFIG_EXAMPLES_DIR "BIQU/B1"
 
-//#define MOTHERBOARD BOARD_BTT_SKR_V1_4  // Uncomment for the V1.4 board, otherwise V2.0 is assumed
+#define MOTHERBOARD BOARD_BTT_SKR_V1_4  // Uncomment for the V1.4 board, otherwise V2.0 is assumed
 //#define B1_USE_BLTOUCH                  // Uncomment for BLTouch support
 
 /**
