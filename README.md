@@ -1,11 +1,5 @@
 # BIQU-B1
 
-This is just files needed to update BIQU B1 mobo and screen firmware to 5/12/2023
+This is just all the files I use for my BIQU B1.
 
-Marlin: 2.1.2 bugfix
-
-GD TFT35 B1 V3.0: V27.x 
-
-
-
-Now includes Prusa Slicer config and my starting and ending Gcode
+Here you will find what I used to update mobo and screen firmware as well as my slicer profiles and gcode. I started with PrusaSlicer but am now transitioning to OrcaSlicer
